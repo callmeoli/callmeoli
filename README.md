@@ -1,12 +1,10 @@
-## Hi there 👋
+## Hello 👋
 
 - 🔭 I’m currently working on React redux
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning Redux
+- 👯 I’m looking to collaborate on React projects
 - 💬 Ask me about ...
-- 📫 How to reach me: [olana Linkedin](https://www.linkedin.com/in/olanakorma/)
-- ⚡ Fun fact: 
+- 📫 How to reach me: [Olana Linkedin](https://www.linkedin.com/in/olanakorma/)
 
 <!--
 **callmeoli/callmeoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
