@@ -1,4 +1,4 @@
-## Hello 👋
+# Hi there! 👋
 
 - 🔭 I’m currently working on React redux
 - 🌱 I’m currently learning Redux
@@ -10,13 +10,6 @@
 **callmeoli/callmeoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-# Hi there! 👋
-
-I'm passionate about coding and open source. Here are some of my skills:
-- Python 🐍
-- JavaScript 🌐
-- Data Science 📊
-
 !GitHub stats
 
 Connect with me:
